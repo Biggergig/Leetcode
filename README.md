@@ -78,6 +78,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
 ## Divide and Conquer
@@ -111,6 +112,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -148,6 +150,7 @@ A collection of Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Biggergig/Leetcode/tree/master/0344-reverse-string) |
