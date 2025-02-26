@@ -11,6 +11,7 @@ A collection of Leetcode solutions
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
+| [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -31,6 +32,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
+| [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 ## Interactive
 |  |
 | ------- |
