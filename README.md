@@ -20,4 +20,16 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
