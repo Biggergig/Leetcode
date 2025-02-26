@@ -21,6 +21,7 @@ A collection of Leetcode solutions
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
@@ -103,6 +104,7 @@ A collection of Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Interactive
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Concurrency
 |  |
 | ------- |
