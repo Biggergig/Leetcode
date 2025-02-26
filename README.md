@@ -14,6 +14,7 @@ A collection of Leetcode solutions
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
+| [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -58,6 +59,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
+| [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 ## Iterator
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of Leetcode solutions
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 ## Interactive
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
