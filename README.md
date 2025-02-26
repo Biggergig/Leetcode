@@ -166,6 +166,7 @@ A collection of Leetcode solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -210,4 +211,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
 <!---LeetCode Topics End-->
