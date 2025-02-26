@@ -36,6 +36,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
+| [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 ## Dynamic Programming
 |  |
@@ -103,4 +104,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
