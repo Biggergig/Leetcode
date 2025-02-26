@@ -16,6 +16,7 @@ A collection of Leetcode solutions
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
@@ -114,6 +115,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 ## Recursion
