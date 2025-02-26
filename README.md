@@ -61,6 +61,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0688-knight-probability-in-chessboard](https://github.com/Biggergig/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -160,6 +161,7 @@ A collection of Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -204,4 +206,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
