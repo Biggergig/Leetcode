@@ -39,4 +39,20 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
