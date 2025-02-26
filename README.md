@@ -28,6 +28,7 @@ A collection of Leetcode solutions
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Greedy
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
