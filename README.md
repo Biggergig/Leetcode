@@ -13,6 +13,7 @@ A collection of Leetcode solutions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
+| [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
@@ -84,6 +85,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
+| [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
 ## Iterator
@@ -95,6 +97,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
+| [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 ## Interactive
@@ -118,6 +121,7 @@ A collection of Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -147,6 +151,7 @@ A collection of Leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 ## Concurrency
 |  |
