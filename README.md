@@ -21,6 +21,7 @@ A collection of Leetcode solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
+| [0790-global-and-local-inversions](https://github.com/Biggergig/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of Leetcode solutions
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0790-global-and-local-inversions](https://github.com/Biggergig/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
