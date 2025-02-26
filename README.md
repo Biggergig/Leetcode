@@ -49,6 +49,7 @@ A collection of Leetcode solutions
 | [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [3451-string-compression-iii](https://github.com/Biggergig/Leetcode/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
