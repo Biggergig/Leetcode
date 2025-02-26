@@ -6,6 +6,7 @@ A collection of Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
@@ -64,4 +65,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
