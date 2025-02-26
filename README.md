@@ -52,6 +52,7 @@ A collection of Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Biggergig/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Biggergig/Leetcode/tree/master/0071-simplify-path) |
