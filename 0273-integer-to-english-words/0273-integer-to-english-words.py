@@ -1,6 +1,6 @@
 class Solution:
     def numberToWords(self, num: int, say_zero=True) -> str:
-        if say_zero and num == 0: return "Zero"
+        if num == 0: return "Zero" if say_zero else ""
         ones = [
             "", # avoid saying zero except explicitly
             "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
@@ -15,10 +15,12 @@ class Solution:
         ]
         if num < 100:
             return f"{tens[num//10]} {ones[num%10]}".strip()
-        if num < 1000:
-            return f"{ones[num//100]} Hundred {self.numberToWords(num%100, False)}".strip()
-        if num < 1_000_000:
-            return f"{self.numberToWords(num//1000)} Thousand {self.numberToWords(num%1000, False)}".strip()
-        if num < 1_000_000_000:
-            return f"{self.numberToWords(num//1_000_000)} Million {self.numberToWords(num%1_000_000, False)}".strip()
-        return f"{self.numberToWords(num//1_000_000_000)} Billion {self.numberToWords(num%1_000_000_000, False)}".strip()
+        for bound, mod ,title in [
+            (100, 10, ""),
+            (1_000, 100,"Hundred "),
+            (1_000_000, 1000,"Thousand "),
+            (1_000_000_000, 1000000,"Million "),
+            (2**31,1_000_000_000,"Billion "),
+        ]:
+            if num < bound:
+                return f"{self.numberToWords(num//mod)} {title}{self.numberToWords(num%mod, False)}".strip()
