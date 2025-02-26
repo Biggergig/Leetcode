@@ -17,6 +17,7 @@ A collection of Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
@@ -28,11 +29,13 @@ A collection of Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -82,6 +85,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +144,7 @@ A collection of Leetcode solutions
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Biggergig/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Math
 |  |
