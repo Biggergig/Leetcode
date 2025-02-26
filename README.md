@@ -17,6 +17,7 @@ A collection of Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of Leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
