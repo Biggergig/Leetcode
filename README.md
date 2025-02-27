@@ -11,6 +11,7 @@ A collection of Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Biggergig/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -198,6 +200,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Biggergig/Leetcode/tree/master/0344-reverse-string) |
