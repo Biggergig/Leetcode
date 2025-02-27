@@ -165,6 +165,7 @@ A collection of Leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
@@ -236,11 +237,13 @@ A collection of Leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Counting
