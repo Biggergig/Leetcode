@@ -62,6 +62,7 @@ A collection of Leetcode solutions
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Biggergig/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Biggergig/Leetcode/tree/master/0071-simplify-path) |
+| [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/Biggergig/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Biggergig/Leetcode/tree/master/0344-reverse-string) |
@@ -129,6 +130,7 @@ A collection of Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
@@ -143,6 +145,7 @@ A collection of Leetcode solutions
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -310,4 +313,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
