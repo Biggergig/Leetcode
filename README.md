@@ -15,6 +15,7 @@ A collection of Leetcode solutions
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Biggergig/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -109,11 +110,13 @@ A collection of Leetcode solutions
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Biggergig/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
@@ -137,6 +140,7 @@ A collection of Leetcode solutions
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
@@ -157,6 +161,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
@@ -249,6 +254,7 @@ A collection of Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Combinatorics
 |  |
@@ -291,4 +297,12 @@ A collection of Leetcode solutions
 | ------- |
 | [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
