@@ -66,6 +66,7 @@ A collection of Leetcode solutions
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Biggergig/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Biggergig/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
@@ -89,6 +90,7 @@ A collection of Leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Biggergig/Leetcode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Biggergig/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Biggergig/Leetcode/tree/master/0394-decode-string) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Greedy
@@ -217,6 +219,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Biggergig/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Function
 |  |
