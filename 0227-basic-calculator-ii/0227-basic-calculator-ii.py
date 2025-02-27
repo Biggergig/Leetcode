@@ -27,9 +27,9 @@ class Node:
         self.next.next.prev = self
         self.prev = self.prev.prev
         self.next = self.next.next
-        
 
 class Solution:
+    # Linked list solution
     def calculate(self, s: str) -> int:
         tok = list(s)
         operators = "*/+-"
@@ -58,3 +58,28 @@ class Solution:
         for n in muldiv+addsub:
             n.calculate()
         return head.next.val
+    
+    # Stack solution
+    def calculate(self, s: str) -> int:
+        S = []
+        curNum = ""
+        lastOp = "+"
+        op=None
+        for c in s+"+": # sentinel value
+            if c in " ": continue # skip whitespace
+            if c in "0123456789":
+                curNum+=c
+            else:
+                lastOp,op = op,c
+                curNum = int(curNum)
+                if lastOp == "*":
+                    curNum=S.pop()*curNum
+                if lastOp == "/":
+                    curNum=int(S.pop()/curNum)
+                while len(S)>=2: # this makes it constant space
+                    S[0] += S.pop()
+                S.append(curNum)
+                curNum = "" if op != '-' else "-"
+                if op == '-':op = "+"
+
+        return sum(S)
