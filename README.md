@@ -9,6 +9,7 @@ A collection of Leetcode solutions
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -166,6 +167,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +196,7 @@ A collection of Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
