@@ -24,6 +24,7 @@ A collection of Leetcode solutions
 | [0790-global-and-local-inversions](https://github.com/Biggergig/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -73,6 +74,7 @@ A collection of Leetcode solutions
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0688-knight-probability-in-chessboard](https://github.com/Biggergig/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -134,6 +136,7 @@ A collection of Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
