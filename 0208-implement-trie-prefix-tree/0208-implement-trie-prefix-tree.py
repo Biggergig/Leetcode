@@ -1,29 +1,25 @@
 from collections import defaultdict
 class Trie:
     def __init__(self):
-        self.M = defaultdict(Trie)
-        self.end = False
-
+        infdict = lambda: defaultdict(infdict)
+        self.T = infdict()
     def insert(self, word: str) -> None:
-        if word:
-            self.M[word[0]].insert(word[1:])
-        else:
-            self.end = True
-
+        t = self.T
+        for c in word:
+            t=t[c]
+        t['#'] = True # Marking character        
     def search(self, word: str) -> bool:
-        if not word:
-            return self.end
-        if word[0] not in self.M:
-            return False
-        return self.M[word[0]].search(word[1:])
-        
-
+        t = self.T
+        for c in word:
+            if c not in t: return False
+            t=t[c]
+        return '#' in t
     def startsWith(self, word: str) -> bool:
-        if not word:
-            return True
-        if word[0] not in self.M:
-            return False
-        return self.M[word[0]].startsWith(word[1:])
+        t = self.T
+        for c in word:
+            if c not in t: return False
+            t=t[c]
+        return True
 
 
 # Your Trie object will be instantiated and called as such:
