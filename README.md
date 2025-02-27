@@ -136,6 +136,7 @@ A collection of Leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
@@ -189,6 +190,7 @@ A collection of Leetcode solutions
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/Biggergig/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Biggergig/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0790-global-and-local-inversions](https://github.com/Biggergig/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -269,4 +271,12 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Biggergig/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
