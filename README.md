@@ -101,6 +101,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biggergig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
@@ -214,6 +215,7 @@ A collection of Leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Function
