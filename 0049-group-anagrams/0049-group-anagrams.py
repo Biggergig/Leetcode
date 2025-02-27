@@ -1,7 +1,12 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = defaultdict(list)
+        def hash(w):
+            out = [0]*26
+            for c in w:
+                out[ord(c)-ord('a')]+=1
+            return tuple(out)
+        bins = defaultdict(list)
         for w in strs:
-            groups["".join(sorted(w))].append(w)
-        return list(groups.values())
+            bins[hash(w)].append(w)
+        return list(bins.values())
