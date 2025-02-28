@@ -34,6 +34,7 @@ A collection of Leetcode solutions
 | [1019-squares-of-a-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -48,6 +49,7 @@ A collection of Leetcode solutions
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of Leetcode solutions
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Biggergig/Leetcode/tree/master/0860-design-circular-queue) |
+| [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 ## Iterator
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of Leetcode solutions
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
