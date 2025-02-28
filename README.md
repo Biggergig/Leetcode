@@ -17,6 +17,7 @@ A collection of Leetcode solutions
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Biggergig/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ A collection of Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/Biggergig/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -185,6 +187,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
@@ -192,11 +195,13 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -242,6 +247,7 @@ A collection of Leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -336,4 +342,9 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
