@@ -61,6 +61,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Biggergig/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Biggergig/Leetcode/tree/master/0065-valid-number) |
@@ -80,6 +81,7 @@ A collection of Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
@@ -323,4 +325,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
