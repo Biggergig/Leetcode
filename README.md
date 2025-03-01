@@ -40,6 +40,7 @@ A collection of Leetcode solutions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Binary Search
@@ -243,6 +244,7 @@ A collection of Leetcode solutions
 | [1019-squares-of-a-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Biggergig/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of Leetcode solutions
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Concurrency
 |  |
 | ------- |
