@@ -11,6 +11,7 @@ A collection of Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -71,6 +72,7 @@ A collection of Leetcode solutions
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Biggergig/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Biggergig/Leetcode/tree/master/0071-simplify-path) |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/Biggergig/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Biggergig/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -92,6 +94,7 @@ A collection of Leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
@@ -164,6 +167,7 @@ A collection of Leetcode solutions
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +269,7 @@ A collection of Leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -353,11 +358,13 @@ A collection of Leetcode solutions
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 ## Graph
 |  |
 | ------- |
