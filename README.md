@@ -21,6 +21,7 @@ A collection of Leetcode solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
+| [0403-frog-jump](https://github.com/Biggergig/Leetcode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Biggergig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -97,6 +98,7 @@ A collection of Leetcode solutions
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/Biggergig/Leetcode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/Biggergig/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
