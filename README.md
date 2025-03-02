@@ -85,6 +85,7 @@ A collection of Leetcode solutions
 | [0394-decode-string](https://github.com/Biggergig/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Biggergig/Leetcode/tree/master/0443-string-compression) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0812-rotate-string](https://github.com/Biggergig/Leetcode/tree/master/0812-rotate-string) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1170-shortest-common-supersequence](https://github.com/Biggergig/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Biggergig/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -382,4 +383,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Biggergig/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
