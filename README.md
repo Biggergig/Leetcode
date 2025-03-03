@@ -7,6 +7,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Biggergig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Biggergig/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Biggergig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
@@ -232,6 +234,7 @@ A collection of Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Biggergig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
