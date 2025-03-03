@@ -25,4 +25,5 @@ class Solution:
         for i,n in enumerate(nums):
             prefix_sum+=n
             ans = max(ans,prefix_sum / (i+1))
+            # What is the worst possible spread of our arrays[:i]
         return math.ceil(ans)
