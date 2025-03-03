@@ -117,6 +117,7 @@ A collection of Leetcode solutions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Biggergig/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
@@ -233,6 +234,7 @@ A collection of Leetcode solutions
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of Leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
@@ -336,6 +339,7 @@ A collection of Leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Counting
 |  |
