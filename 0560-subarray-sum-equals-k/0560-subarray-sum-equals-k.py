@@ -1,10 +1,11 @@
-from collections import *
+from collections import defaultdict
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        seen=Counter([0]) # track the prefix sums seen so far
-        ans=s=0
-        for n in nums:
-            s+=n
-            ans+=seen[s-k] # how many prefix sums before this can we ignore to get k
-            seen[s]+=1
+        cumsum = 0
+        seen_sums = defaultdict(int, {0:1})
+        ans = 0
+        for v in nums:
+            cumsum += v
+            ans += seen_sums.get(cumsum-k,0)
+            seen_sums[cumsum]+=1
         return ans
