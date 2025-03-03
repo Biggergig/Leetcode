@@ -1,43 +1,42 @@
 class MyCircularQueue:
 
     def __init__(self, k: int):
-        self.q = [None]*k
-        self.f = self.r = 0
-        self.open_spaces = k
-        self.k = k
+        self.Q = [None]*k
+        self.front = 0
+        self.rear = -1 # we are storing last valid value
+        self.cap = k
+        self.size = 0
 
     def enQueue(self, value: int) -> bool:
-        if self.open_spaces == 0: return False
-        self.q[self.r] = value
-        self.r = (self.r+1)%self.k
-        self.open_spaces -= 1
+        if self.isFull(): return False
+        self.size += 1
+        self.rear+=1
+        self.rear%=self.cap
+        self.Q[self.rear] = value
         return True
-        
 
     def deQueue(self) -> bool:
-        if self.open_spaces == self.k: return False
-        value = self.q[self.f]
-        self.f = (self.f+1)%self.k
-        self.open_spaces += 1
+        if self.isEmpty(): return False
+        self.Q[self.front] = None
+        self.size -= 1
+        self.front+=1
+        self.front%=self.cap
         return True
-        
 
     def Front(self) -> int:
-        if self.open_spaces == self.k: return -1
-        return self.q[self.f]
-        
+        if self.size == 0: return -1
+        return self.Q[self.front]                
 
     def Rear(self) -> int:
-        if self.open_spaces == self.k: return -1
-        return self.q[(self.r - 1)%self.k]
+        if self.size == 0: return -1
+        return self.Q[self.rear]
         
 
     def isEmpty(self) -> bool:
-        return self.open_spaces == self.k
-        
+        return self.size == 0
 
     def isFull(self) -> bool:
-        return self.open_spaces ==0
+        return self.size == self.cap
         
 
 
