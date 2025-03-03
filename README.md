@@ -43,6 +43,7 @@ A collection of Leetcode solutions
 | [1319-unique-number-of-occurrences](https://github.com/Biggergig/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1762-furthest-building-you-can-reach](https://github.com/Biggergig/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biggergig/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -135,6 +136,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [1762-furthest-building-you-can-reach](https://github.com/Biggergig/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Linked List
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of Leetcode solutions
 | [0295-find-median-from-data-stream](https://github.com/Biggergig/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1762-furthest-building-you-can-reach](https://github.com/Biggergig/Leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Merge Sort
 |  |
 | ------- |
