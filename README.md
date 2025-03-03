@@ -12,6 +12,7 @@ A collection of Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Biggergig/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -77,6 +78,7 @@ A collection of Leetcode solutions
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Biggergig/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Biggergig/Leetcode/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -101,6 +103,7 @@ A collection of Leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/Biggergig/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biggergig/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Biggergig/Leetcode/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -178,6 +181,7 @@ A collection of Leetcode solutions
 | [0036-valid-sudoku](https://github.com/Biggergig/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Biggergig/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Biggergig/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -288,6 +292,7 @@ A collection of Leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
@@ -379,6 +384,7 @@ A collection of Leetcode solutions
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Biggergig/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Biggergig/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Biggergig/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
