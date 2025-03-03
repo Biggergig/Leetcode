@@ -44,6 +44,7 @@ A collection of Leetcode solutions
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biggergig/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biggergig/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biggergig/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biggergig/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -58,6 +59,7 @@ A collection of Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of Leetcode solutions
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Depth-First Search
 |  |
@@ -264,6 +267,7 @@ A collection of Leetcode solutions
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Biggergig/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biggergig/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biggergig/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
