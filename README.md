@@ -96,6 +96,7 @@ A collection of Leetcode solutions
 | [0812-rotate-string](https://github.com/Biggergig/Leetcode/tree/master/0812-rotate-string) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1170-shortest-common-supersequence](https://github.com/Biggergig/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Biggergig/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [3451-string-compression-iii](https://github.com/Biggergig/Leetcode/tree/master/3451-string-compression-iii) |
@@ -199,6 +200,7 @@ A collection of Leetcode solutions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biggergig/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -218,6 +220,7 @@ A collection of Leetcode solutions
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Depth-First Search
@@ -339,6 +342,7 @@ A collection of Leetcode solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Biggergig/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Biggergig/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Combinatorics
 |  |
 | ------- |
