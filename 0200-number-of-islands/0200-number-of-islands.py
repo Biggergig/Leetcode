@@ -20,15 +20,15 @@ class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         ans = 0
         def mark(x,y):
-            if not (0<=x<len(grid[0]) and 0<=y<len(grid)) or grid[y][x] == '0': return 0
+            if not (0<=x<len(grid[0]) and 0<=y<len(grid)) or grid[y][x] == '0': return
             grid[y][x] = '0'
             mark(x-1,y)
             mark(x+1,y)
             mark(x,y-1)
             mark(x,y+1)
-            return 1
         for y in range(len(grid)):
             for x in range(len(grid[0])):
                 if grid[y][x] == '1':
-                    ans+=mark(x,y)
+                    ans+=1
+                    mark(x,y)
         return ans
