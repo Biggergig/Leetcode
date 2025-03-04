@@ -300,6 +300,7 @@ A collection of Leetcode solutions
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [1013-fibonacci-number](https://github.com/Biggergig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Biggergig/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
 ## Recursion
