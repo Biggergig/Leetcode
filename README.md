@@ -21,6 +21,7 @@ A collection of Leetcode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biggergig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Biggergig/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Biggergig/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Biggergig/Leetcode/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/Biggergig/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/Biggergig/Leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Biggergig/Leetcode/tree/master/0284-peeking-iterator) |
@@ -256,6 +257,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Biggergig/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -267,6 +269,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Biggergig/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
@@ -276,6 +279,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Biggergig/Leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/Biggergig/Leetcode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/Biggergig/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0542-01-matrix](https://github.com/Biggergig/Leetcode/tree/master/0542-01-matrix) |
@@ -466,4 +470,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Biggergig/Leetcode/tree/master/0595-big-countries) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Biggergig/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
