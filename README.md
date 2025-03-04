@@ -470,6 +470,7 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Biggergig/Leetcode/tree/master/0595-big-countries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Biggergig/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Union Find
 |  |
 | ------- |
