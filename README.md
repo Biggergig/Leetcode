@@ -462,4 +462,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Biggergig/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Biggergig/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
