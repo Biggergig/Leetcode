@@ -44,6 +44,7 @@ A collection of Leetcode solutions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biggergig/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Biggergig/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [1185-find-in-mountain-array](https://github.com/Biggergig/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Biggergig/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -76,6 +77,7 @@ A collection of Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biggergig/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Biggergig/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 ## Prefix Sum
 |  |
 | ------- |
