@@ -326,6 +326,7 @@ A collection of Leetcode solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Biggergig/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Biggergig/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Recursion
 |  |
 | ------- |
