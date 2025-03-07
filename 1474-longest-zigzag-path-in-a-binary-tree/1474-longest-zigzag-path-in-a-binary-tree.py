@@ -6,14 +6,13 @@
 #         self.right = right
 class Solution:
     def longestZigZag(self, root: Optional[TreeNode]) -> int:
-        best = 0
-        def getZigLengths(n):
-            # return left, right
-            nonlocal best
-            if n is None: return -1,-1
-            left_zig = 1 + getZigLengths(n.left)[1]
-            right_zig = 1 + getZigLengths(n.right)[0]
-            best = max(best, left_zig, right_zig)
-            return left_zig, right_zig
-        getZigLengths(root)
-        return best
+        ans = 0
+        def helper(n, l, r):
+            nonlocal ans
+            if n is None:
+                ans=max(ans, l, r)
+                return
+            helper(n.left, r+1, 0)
+            helper(n.right, 0, l+1)
+        helper(root,0,0)
+        return ans-1
