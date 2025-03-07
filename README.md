@@ -338,6 +338,7 @@ A collection of Leetcode solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Biggergig/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 | [2560-closest-fair-integer](https://github.com/Biggergig/Leetcode/tree/master/2560-closest-fair-integer) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Biggergig/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Biggergig/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Biggergig/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -501,4 +502,8 @@ A collection of Leetcode solutions
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Biggergig/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Biggergig/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
