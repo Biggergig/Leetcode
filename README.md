@@ -80,6 +80,7 @@ A collection of Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biggergig/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Biggergig/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Biggergig/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biggergig/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
@@ -116,6 +117,7 @@ A collection of Leetcode solutions
 | [0609-find-duplicate-file-in-system](https://github.com/Biggergig/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0692-top-k-frequent-words](https://github.com/Biggergig/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/Biggergig/Leetcode/tree/master/0812-rotate-string) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Biggergig/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/Biggergig/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1170-shortest-common-supersequence](https://github.com/Biggergig/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -236,6 +238,7 @@ A collection of Leetcode solutions
 | [0817-design-hashmap](https://github.com/Biggergig/Leetcode/tree/master/0817-design-hashmap) |
 | [0894-random-pick-with-blacklist](https://github.com/Biggergig/Leetcode/tree/master/0894-random-pick-with-blacklist) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biggergig/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/Biggergig/Leetcode/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1249-snapshot-array](https://github.com/Biggergig/Leetcode/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Biggergig/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Biggergig/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
