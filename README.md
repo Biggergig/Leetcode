@@ -81,6 +81,7 @@ A collection of Leetcode solutions
 | [0658-find-k-closest-elements](https://github.com/Biggergig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biggergig/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1107-minimum-swaps-to-group-all-1s-together](https://github.com/Biggergig/Leetcode/tree/master/1107-minimum-swaps-to-group-all-1s-together) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biggergig/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of Leetcode solutions
 | [1777-determine-if-two-strings-are-close](https://github.com/Biggergig/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Biggergig/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/Biggergig/Leetcode/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biggergig/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3451-string-compression-iii](https://github.com/Biggergig/Leetcode/tree/master/3451-string-compression-iii) |
 ## Dynamic Programming
 |  |
