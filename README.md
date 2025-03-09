@@ -57,6 +57,7 @@ A collection of Leetcode solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Biggergig/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2530-minimize-maximum-of-array](https://github.com/Biggergig/Leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Biggergig/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Biggergig/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Biggergig/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biggergig/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3114-beautiful-towers-i](https://github.com/Biggergig/Leetcode/tree/master/3114-beautiful-towers-i) |
@@ -282,6 +283,7 @@ A collection of Leetcode solutions
 | [0803-cheapest-flights-within-k-stops](https://github.com/Biggergig/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Biggergig/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of Leetcode solutions
 | [0733-flood-fill](https://github.com/Biggergig/Leetcode/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Biggergig/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1368-web-crawler-multithreaded](https://github.com/Biggergig/Leetcode/tree/master/1368-web-crawler-multithreaded) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Biggergig/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of Leetcode solutions
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/Biggergig/Leetcode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Biggergig/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/Biggergig/Leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Biggergig/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of Leetcode solutions
 | [0133-clone-graph](https://github.com/Biggergig/Leetcode/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biggergig/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Biggergig/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Biggergig/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
